@@ -56,11 +56,10 @@ export default function Footer() {
           </p>
           <div className="flex gap-2 items-center">
             <div>
-              <img src={QrCodeImg} alt="" />
+            
             </div>
             <div className="flex flex-col gap-1">
-              <img src={GooglePlayImg} alt="" />
-              <img src={AppStoreImg} alt="" />
+              
             </div>
           </div>
           <div className="flex gap-6 text-xl pt-2">
