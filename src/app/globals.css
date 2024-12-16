@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text {
+    color: #2A254B;
+  }
+
+  .buttonbg {
+    background-color: #F9F9F9;
+  }
+
+  .button {
+    background-color: #2A254B;
+  }
